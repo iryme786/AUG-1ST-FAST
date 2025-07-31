@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: 
+    repo: https://github.com/iryme786/AUG-1ST-FAST
     branch: main
     autoDeploy: false
     envVars:
